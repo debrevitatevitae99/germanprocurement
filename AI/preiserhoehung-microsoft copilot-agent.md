@@ -1,6 +1,21 @@
-# PriceGuardAI v2 — Ohne SharePoint | Datei-Upload Workflow
+# PriceGuardAI — Ohne SharePoint | Datei-Upload Workflow
 
-> **Vereinfachter Ansatz:** Kein SharePoint erforderlich. Preiserhöhungsankündigung und Vertrag werden direkt in den Chat hochgeladen. Am Ende werden automatisch ein **Widerspruchs-E-Mail-Entwurf** und eine **Aktennotiz** generiert.
+> **Vereinfachter Ansatz:** 
+
+# PriceGuardAI — Preiserhöhungen strategisch abwehren
+
+Dieser Agent wurde für **Microsoft Copilot Studio** entwickelt und richtet sich 
+an Einkäufer im Großhandel, die Preiserhöhungsankündigungen von Lieferanten 
+schnell, strukturiert und auf vertraglicher Grundlage prüfen und abwehren möchten.
+
+Statt manueller Vertragsrecherche übernimmt der Agent die vollständige Analyse:
+Einfach die Preiserhöhungsankündigung und den bestehenden Rahmenvertrag in den 
+Microsoft Copilot Chat hochladen — der Agent prüft automatisch die vertragliche 
+Zulässigkeit, berechnet Fristen, identifiziert Formfehler und erstellt am Ende 
+einen versandfertigen **Widerspruchs-E-Mail-Entwurf** sowie eine interne 
+**Aktennotiz** zur Dokumentation.
+
+Kein SharePoint, kein komplexes Setup — der Agent läuft vollständig 
 
 ---
 
@@ -23,11 +38,11 @@
 │                    ABLAUF — DATEI-UPLOAD MODUS                   │
 ├──────────────────────────────────────────────────────────────────┤
 │                                                                  │
-│  SCHRITT 1 — Upload                                              │
+│  SCHRITT 1 — Upload in den Copilot Agent                         │
 │  ┌─────────────────────┐   ┌─────────────────────┐              │
-│  │ 📧 Preiserhöhungs-  │   │ 📋 Rahmenvertrag /  │              │
+│  │ 📧 Preiserhöhungs-  │    │ 📋 Rahmenvertrag /  │              │
 │  │    ankündigung      │   │    Konditionenblatt │              │
-│  │ (PDF / DOCX / E-Mail│   │ (PDF / DOCX)        │              │
+│  │    (PDF / E-Mail    │   │   (PDF / DOCX)      │              │
 │  └──────────┬──────────┘   └──────────┬──────────┘              │
 │             └──────────────┬──────────┘                         │
 │                            ▼                                     │
@@ -102,7 +117,7 @@ Vollständig in das Feld **Instructions** in Copilot Studio einfügen.
 `[FIRMENNAME]`, `[ORT]` und `[SACHBEARBEITER]` anpassen.
 
 ```
-Du bist ein spezialisierter Einkaufsassistent für Preiserhöhungsabwehr im Großhandel.
+Du bist ein spezialisierter Einkaufsassistent für Preiserhöhungsabwehr im Großhandel Bereich [Sanitärgroßhandel].
 Du arbeitest für das Unternehmen [FIRMENNAME] in [ORT].
 Zuständiger Sachbearbeiter: [SACHBEARBEITER], Einkauf.
 
@@ -110,11 +125,10 @@ Zuständiger Sachbearbeiter: [SACHBEARBEITER], Einkauf.
 ARBEITSWEISE
 ════════════════════════════════════════════════
 
-Der Nutzer wird dir zwei Dokumente hochladen:
+Der Nutzer wird dir mindestens zwei Dokumente hochladen:
 1. Die Preiserhöhungsankündigung des Lieferanten (E-Mail, PDF oder DOCX)
 2. Den bestehenden Rahmenvertrag oder das Konditionenblatt mit diesem Lieferanten
 
-Begrüße den Nutzer und weise ihn an, beide Dokumente hochzuladen, bevor du mit der Analyse beginnst.
 Sobald beide Dokumente vorliegen, führe automatisch die vollständige Analyse durch.
 
 ════════════════════════════════════════════════
@@ -335,17 +349,11 @@ Geprüft:   ____________________    Datum: ____________
 SCHRITT 1 — Agent starten
 Teams öffnen → PriceGuardAI-Agent aufrufen
 
-SCHRITT 2 — Agent begrüßt Sie:
-"Guten Tag! Bitte laden Sie beide Dokumente hoch:
- 1. Die Preiserhöhungsankündigung des Lieferanten
- 2. Den Rahmenvertrag / das Konditionenblatt
- Ich starte die Analyse automatisch sobald beide vorliegen."
-
-SCHRITT 3 — Dokumente hochladen
+SCHRITT 2 — Dokumente hochladen
 📎 Preiserhöhungsankündigung hochladen (PDF/DOCX)
 📎 Rahmenvertrag hochladen (PDF/DOCX)
 
-SCHRITT 4 — Automatische Analyse (ca. 30–60 Sekunden)
+SCHRITT 3 — Automatische Analyse (ca. 30–60 Sekunden)
 Der Agent liefert:
   📌 Zusammenfassung
   📋 Vertragscheck-Ergebnis
@@ -356,6 +364,11 @@ Der Agent liefert:
 
 SCHRITT 5 — Nachbearbeitung
 Prüfen → Ggf. anpassen → E-Mail versenden → Aktennotiz ablegen
+
+SCHRITT 6 — Antwort vom Lieferanten hochladen
+Antwort in den identischen Chat wieder hochladen. 
+
+
 ```
 
 ### Nachfrage-Prompts für Feinschliff
@@ -410,4 +423,4 @@ AKTION 5: Excel-Tracking aktualisieren
 
 ---
 
-*Stand: Mai 2026 · PriceGuardAI v2 · Datei-Upload Modus · Ohne SharePoint*
+*Stand: Mai 2026*
