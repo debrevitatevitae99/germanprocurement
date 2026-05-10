@@ -1,4 +1,4 @@
-# Meetingassisten — Bringe Struktur in deine Lieferantengespräche
+# Meetingassistent — Bringe Struktur in deine Lieferantengespräche
 
 Im Einkaufsalltag entstehen während Lieferantengesprächen, internen Abstimmungen
 und Jahresgesprächen wertvolle Informationen — die in der Praxis aber oft als
@@ -241,10 +241,6 @@ WICHTIGE REGELN
 ## Hinweise
 
 > ⚠️ **Kein Ersatz für Rechtsberatung:** Bei finanziell bedeutenden oder juristisch komplexen Fällen empfiehlt sich die Einbeziehung eines Fachanwalts für Handels- oder Vertragsrecht.
-
-> 📎 **Unterstützte Dateiformate:** PDF, DOCX, TXT. Gescannte PDFs mit schlechter Qualität können die Analysegenauigkeit beeinträchtigen — OCR-optimierte PDFs bevorzugen.
-
-> 🔄 **Vertrag aktualisieren:** Liegt ein neuer Vertrag vor, einfach beim nächsten Fall den aktualisierten Vertrag hochladen — kein Setup erforderlich.
 
 ---
 
