@@ -2,7 +2,7 @@
 
 Willkommen bei **Procurement Germany**.
 
-Der Einkauf ist eine der [Zum Text „Einkauf im Zusammenspiel“](Einkauf) zentralen Funktionen  in jedem Unternehmen – und dennoch gibt es erstaunlich wenige strukturierte, praxisnahe Quellen, um ihn wirklich zu erlernen. Genau das ist der Ausgangspunkt dieses Repositories: Hier werden gezielt Inhalte für Einkäufer bereitgestellt – sowie für alle, die es werden möchten. Der Fokus liegt auf verständlichem, anwendbarem Wissen rund um Beschaffung, Einkaufsstrategie und berufliche Entwicklung im Procurement.
+Der Einkauf ist eine der [zentralen Funktionen](.Einkauf/einkauf_als_ergebnishebel.md) in jedem Unternehmen – und dennoch gibt es erstaunlich wenige strukturierte, praxisnahe Quellen, um ihn wirklich zu erlernen. Genau das ist der Ausgangspunkt dieses Repositories: Hier werden gezielt Inhalte für Einkäufer bereitgestellt – sowie für alle, die es werden möchten. Der Fokus liegt auf verständlichem, anwendbarem Wissen rund um Beschaffung, Einkaufsstrategie und berufliche Entwicklung im Procurement.
 
 ## Inhalte
 
