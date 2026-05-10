@@ -14,7 +14,10 @@ vergessen wurde.
 
 ## 1. Konzept & Ablauf des Meeting Assistenten
 
-```
+
+````markdown
+### Konzept & Ablauf
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │               ABLAUF — MEETING-ASSISTENT EINKAUF                │
@@ -58,7 +61,8 @@ vergessen wurde.
 │  └────────────────────┘   └────────────────────┘               │
 └─────────────────────────────────────────────────────────────────┘
 ```
-```
+````
+
 
 ## 2. Meeting Agent in Copilot Studio erstellen
 
