@@ -36,3 +36,8 @@ Synergie entsteht dort, wo Forecast, Verfügbarkeit und Marge gemeinsam gesteuer
 Ein strategisch aufgestellter Einkauf unterstützt den Vertrieb nicht nur indirekt, sondern ganz konkret. Er sorgt dafür, dass die verkauften Leistungen rechtzeitig, wirtschaftlich und in der vereinbarten Qualität geliefert werden können. Damit schützt er nicht nur die Marge, sondern auch Kundenbeziehungen, Liefertreue und die Glaubwürdigkeit des Vertriebs.
 
 Nicht die stärkste Abteilung gewinnt, sondern das Unternehmen als Ganzes. Wenn Vertrieb, Einkauf, Produktion, Logistik, Entwicklung und Finance gemeinsam denken und handeln, entstehen robuste Prozesse, bessere Entscheidungen und ein Geschäftsmodell, das auch unter Druck trägt.
+
+
+## Einkauf im Zusammenspiel – je nach Organisation
+
+In der einen Organisation ist es der Vertrieb, mit dem der Einkauf eng zusammenarbeiten muss. In einer anderen ist es die Forschung & Entwicklung (R&D), die Maintenance, die Produktion, das Projektmanagement, die Logistik oder das Finance-Team. Die Konstellation ist je nach Branche, Geschäftsmodell und Unternehmensstruktur unterschiedlich – der Grundsatz bleibt derselbe: Einkauf entfaltet seine volle Wirkung nicht im Silo, sondern im strukturierten Zusammenspiel mit den Bereichen, die Bedarfe erzeugen, Prozesse verantworten und Ergebnisse tragen.
