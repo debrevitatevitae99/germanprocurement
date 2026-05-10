@@ -16,7 +16,7 @@ In diesem Repository können unter anderem folgende Themen erscheinen:
 - Kosten, Prozesse und Wirtschaftlichkeit.
 - Methoden, Werkzeuge und praktische Beispiele.
 
-- Schwerpunkt Procurement und Künstliche Intelligenz (AI): Ideengenerierung für Strategien, Kommunikation und Entscheidungen. Unterstützung bei Routineaufgaben
+- Schwerpunkt Procurement und Künstliche Intelligenz [AI](https://github.com/debrevitatevitae99/germanprocurement/tree/d6987af48703813629141d898ea5304647562d16/AI): Ideengenerierung für Strategien, Kommunikation und Entscheidungen. Unterstützung bei Routineaufgaben
 
 ## Ziel
 
