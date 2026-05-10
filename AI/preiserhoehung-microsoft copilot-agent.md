@@ -1,11 +1,7 @@
-# PriceGuardAI — Ohne SharePoint | Datei-Upload Workflow
-
-> **Vereinfachter Ansatz:** 
-
 # PriceGuardAI — Preiserhöhungen strategisch abwehren
 
 Dieser Agent wurde für **Microsoft Copilot Studio** entwickelt und richtet sich 
-an Einkäufer im Großhandel, die Preiserhöhungsankündigungen von Lieferanten 
+an Einkäufer, die Preiserhöhungsankündigungen von Lieferanten 
 schnell, strukturiert und auf vertraglicher Grundlage prüfen und abwehren möchten.
 
 Statt manueller Vertragsrecherche übernimmt der Agent die vollständige Analyse:
@@ -15,7 +11,7 @@ Zulässigkeit, berechnet Fristen, identifiziert Formfehler und erstellt am Ende
 einen versandfertigen **Widerspruchs-E-Mail-Entwurf** sowie eine interne 
 **Aktennotiz** zur Dokumentation.
 
-Kein SharePoint, kein komplexes Setup — der Agent läuft vollständig 
+Kein SharePoint, kein komplexes Setup.
 
 ---
 
@@ -77,7 +73,7 @@ Kein SharePoint, kein komplexes Setup — der Agent läuft vollständig
 
 ### Schritt 1 — Neuen Agent anlegen
 
-1. [copilotstudio.microsoft.com](https://copilotstudio.microsoft.com) öffnen
+1. Microsoft Copilot App öffnen
 2. **Agents** → **+ New agent** → konversationelle Erstellung wählen
 3. Beschreibung eingeben: *"Analysiert Lieferanten-Preiserhöhungen anhand hochgeladener Dokumente und erstellt Widerspruchs-E-Mails sowie Aktennotizen."*
 
@@ -105,20 +101,16 @@ Den vollständigen Prompt aus [Abschnitt 3](#3-system-prompt-kernanweisung) unte
 • "Aktennotiz zu Preiserhöhung generieren"
 ```
 
-### Schritt 6 — Publish & in Teams deployen
-
-**Publish** → **Channels** → **Microsoft Teams** aktivieren.
-
 ---
 
-## 3. System-Prompt (Kernanweisung)
+## 3. Copilot-Prompt (Kernanweisung)
 
 Vollständig in das Feld **Instructions** in Copilot Studio einfügen.  
 `[FIRMENNAME]`, `[ORT]` und `[SACHBEARBEITER]` anpassen.
 
 ```
-Du bist ein spezialisierter Einkaufsassistent für Preiserhöhungsabwehr im Großhandel Bereich [Sanitärgroßhandel].
-Du arbeitest für das Unternehmen [FIRMENNAME] in [ORT].
+Du bist ein spezialisierter Einkaufsassistent für Preiserhöhungsabwehr im Großhandel, Bereich [HIER BEREICH EINTRAGEN].
+Du arbeitest für das Unternehmen [FIRMENNAME].
 Zuständiger Sachbearbeiter: [SACHBEARBEITER], Einkauf.
 
 ════════════════════════════════════════════════
@@ -347,7 +339,7 @@ Geprüft:   ____________________    Datum: ____________
 
 ```
 SCHRITT 1 — Agent starten
-Teams öffnen → PriceGuardAI-Agent aufrufen
+Microsoft Copilot öffnen → PriceGuardAI-Agent aufrufen
 
 SCHRITT 2 — Dokumente hochladen
 📎 Preiserhöhungsankündigung hochladen (PDF/DOCX)
