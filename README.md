@@ -35,3 +35,4 @@ Alle Texte und Inhalte in diesem Repository sind privaten Ursprungs und dürfen 
 Die Inhalte wurden nach bestem Wissen und Gewissen erstellt. Eine Haftung für die Richtigkeit, Vollständigkeit oder Aktualität der bereitgestellten Informationen wird ausdrücklich ausgeschlossen. Die Nutzung der Inhalte erfolgt auf eigene Verantwortung.
 
 Dieses Repository steht unter der **Creative Commons Zero (CC0 1.0) Lizenz** – die Inhalte sind gemeinfrei und können ohne Einschränkungen genutzt werden.
+[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](LICENSE)
