@@ -20,7 +20,7 @@ In diesem Repository können unter anderem folgende Themen erscheinen:
 
 ## Ziel
 
-Dieses Repository soll Wissen verständlich, übersichtlich und nutzbar bereitstellen. Es richtet sich sowohl an Praktiker im Einkauf als auch an Personen, die sich in dieses Berufsfeld einarbeiten möchten.
+Dieses Repository soll Wissen verständlich, übersichtlich und nutzbar bereitstellen. Es richtet sich sowohl an Professinals im Einkauf als auch an Personen, die sich in dieses Berufsfeld einarbeiten möchten.
 
 In Zeiten wirtschaftlichen Drucks ist ein professioneller Einkauf ein entscheidender Wettbewerbsfaktor. Unternehmen, die ihre Beschaffung strategisch ausrichten, können Kosten effizient senken, Abhängigkeiten reduzieren und ihre Lieferketten resilienter gestalten – und damit einen messbaren Beitrag zum Unternehmenserfolg leisten.
 
