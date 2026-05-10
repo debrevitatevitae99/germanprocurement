@@ -1,0 +1,26 @@
+┌─────────────────────────────────────────────────────────┐
+│              PREISGUARD AI — ABLAUFDIAGRAMM             │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  📧 E-Mail / PDF hochladen                              │
+│         │                                               │
+│         ▼                                               │
+│  🔍 Extraktion der Daten                               │
+│     Lieferant · Prozentsatz · Frist · Begründung        │
+│         │                                               │
+│         ▼                                               │
+│  📋 Vertragscheck (SharePoint-Wissensbasis)             │
+│     Rahmenvertrag · Preisklauseln · Fristen             │
+│         │                                               │
+│         ▼                                               │
+│  ⚖️ Rechtliche Bewertung                               │
+│     Zulässig? · Formfehler? · Index korrekt?            │
+│         │                                               │
+│         ▼                                               │
+│  💡 Strategie                                           │
+│     ABLEHNEN · VERHANDELN · KÜNDIGUNG · AKZEPTANZ       │
+│         │                                               │
+│         ▼                                               │
+│  📝 Widerspruchsmail generieren                        │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
