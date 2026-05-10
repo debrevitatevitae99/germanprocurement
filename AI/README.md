@@ -14,7 +14,7 @@
 
 | # | Problem | Lösung | Plattform |
 |---|---------|--------|-----------|
-| 01 | Preiserhöhung durch Lieferant | [Preiserhöhungen abwehren mit Copilot](https://github.com/debrevitatevitae99/germanprocurement/blob/5bc0fc98a45cbfdccd0f4ff9237ad355531955e6/AI/preiserhoehung-microsoft%20copilot-agent.md) | Microsoft Copilot Studio |
-| 02 | Notizen in Lieferantengesprächen | [Gesprächsassistent mit Copilot](https://github.com/debrevitatevitae99/germanprocurement/blob/184222a438256fdc59b9ee1c0aff8046886e6c36/AI/Meetingassistent_copilot.md) | Microsoft Copilot Studio |
+| 01 | Preiserhöhung durch Lieferant | [Preiserhöhungen abwehren mit Copilot](https://github.com/debrevitatevitae99/germanprocurement/blob/d6987af48703813629141d898ea5304647562d16/AI/preiserhoehung-microsoft%20copilot-agent.md) | Microsoft Copilot Studio |
+| 02 | Notizen in Lieferantengesprächen | [Gesprächsassistent mit Copilot](https://github.com/debrevitatevitae99/germanprocurement/blob/2beea75ee8f1d92386f70b5a0b645953dc3b224e/AI/Meetingassistent_copilot.md) | Microsoft Copilot Studio |
 
 ---
