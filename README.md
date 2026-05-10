@@ -27,3 +27,11 @@ In Zeiten wirtschaftlichen Drucks ist ein professioneller Einkauf ein entscheide
 ## Hinweis
 
 Die Inhalte werden schrittweise ergänzt und weiterentwickelt.
+
+## Rechtlicher Hinweis
+
+Alle Texte und Inhalte in diesem Repository sind privaten Ursprungs und dürfen frei verwendet, geteilt und weiterverarbeitet werden.
+
+Die Inhalte wurden nach bestem Wissen und Gewissen erstellt. Eine Haftung für die Richtigkeit, Vollständigkeit oder Aktualität der bereitgestellten Informationen wird ausdrücklich ausgeschlossen. Die Nutzung der Inhalte erfolgt auf eigene Verantwortung.
+
+Dieses Repository steht unter der **Creative Commons Zero (CC0 1.0) Lizenz** – die Inhalte sind gemeinfrei und können ohne Einschränkungen genutzt werden.
